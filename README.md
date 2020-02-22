@@ -20,7 +20,7 @@ Compile with Microsoft Visual Studio 2019, Release x86, .NET Framework 4.6.1
 ![Screenshot](https://github.com/AMATEURZ1337/LobsterOS/blob/master/Screenshot.jpg)
 
 ## Community
-[![Discord Status](https://img.shields.io/discord/512378789297258528.svg?style=flat)](https://discord.gg/fjjteTt)
+Our official Discord community is [here](https://discord.gg/Vjmy3ek)
 
 ## FAQ
 Q: This is real OS?
