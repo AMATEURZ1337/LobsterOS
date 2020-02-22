@@ -17,7 +17,7 @@ Compile with Microsoft Visual Studio 2019, Release x86, .NET Framework 4.6.1
 * Create default web-page on Web Browser
 
 ## Screenshot
-https://raw.githubusercontent.com/AMATEURZ1337/LobsterOS/Screenshot.jpg
+![alt text](https://github.com/AMATEURZ1337/LobsterOS/blob/master/Screenshot.jpg)
 
 ## FAQ
 Q: This is real OS?
