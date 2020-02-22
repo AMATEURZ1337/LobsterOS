@@ -26,7 +26,7 @@ Q: This is real OS?
 
 A: No.
 
-## 
+--- 
 
 Q: Does it do any changes in my system?
 
