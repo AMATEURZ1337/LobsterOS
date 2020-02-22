@@ -11,9 +11,8 @@ LobsterOS is a simple OS coded in C#.
 ## Building
 Compile with Microsoft Visual Studio 2019, Release x86, .NET Framework 4.6.1
 
-## Todo:
+## To Do:
 * Create (pseud0) Boot Loader
-
 * Create default web-page on Web Browser
 
 ## Screenshot
