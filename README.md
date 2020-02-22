@@ -2,6 +2,8 @@
 
 LobsterOS is a simple OS coded in C#.
 
+[![Discord Status](https://img.shields.io/discord/512378789297258528.svg?style=flat)](https://discord.gg/Vjmy3ek)
+
 ## Features
 * **Internet** - surf the internet with the best web browser from LobsterOS!
 * **Notepad** - the best IDE ever made
@@ -17,9 +19,6 @@ Compile with Microsoft Visual Studio 2019, Release x86, .NET Framework 4.6.1
 
 ## Screenshot
 ![Screenshot](https://github.com/AMATEURZ1337/LobsterOS/blob/master/Screenshot.jpg)
-
-## Community
-Our official Discord community is [here](https://discord.gg/Vjmy3ek)
 
 ## FAQ
 Q: This is real OS?
