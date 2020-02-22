@@ -8,16 +8,19 @@ LobsterOS is a simple OS coded in C#.
 * **Pasztet** - Professional graphic program
 * **tasker** - Better than Task Manager! Show Processes, Show PID, Kill process!
 
-## building
+## Building
 Compile with Microsoft Visual Studio 2019, Release x86, .NET Framework 4.6.1
 
-## To do:
+## Todo:
 * Create (pseud0) Boot Loader
 
 * Create default web-page on Web Browser
 
 ## Screenshot
-![alt text](https://github.com/AMATEURZ1337/LobsterOS/blob/master/Screenshot.jpg)
+![Screenshot](https://github.com/AMATEURZ1337/LobsterOS/blob/master/Screenshot.jpg)
+
+## Community
+[![Discord Status](https://img.shields.io/discord/512378789297258528.svg?style=flat)](https://discord.gg/fjjteTt)
 
 ## FAQ
 Q: This is real OS?
