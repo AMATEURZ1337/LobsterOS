@@ -1,8 +1,8 @@
 # LobsterOS
 
-LobsterOS is a simple OS coded in C#.
-
 [![Discord Status](https://img.shields.io/discord/512378789297258528.svg?style=flat)](https://discord.gg/Vjmy3ek)
+
+LobsterOS is a simple OS coded in C#.
 
 ## Features
 * **Internet** - surf the internet with the best web browser from LobsterOS!
