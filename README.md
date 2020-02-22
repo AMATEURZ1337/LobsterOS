@@ -1,6 +1,6 @@
 # LobsterOS
 
-[![Discord Status](https://img.shields.io/discord/512378789297258528.svg?style=flat)](https://discord.gg/Vjmy3ek)
+[![Discord Status](https://img.shields.io/discord/672564332776914954.svg?style=flat)](https://discord.gg/Vjmy3ek)
 
 LobsterOS is a simple OS coded in C#.
 
